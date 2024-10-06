@@ -1,0 +1,1 @@
+Q. 2D matrix given with values 0, 1, 2 where ( 2 - already infected, 1 - prone to virus, 0 - immune ). Each second virus moves from infected person to neighbors ( top, left, bottom, right ) and it can only effect people who are prone to virus. Calculate total time to make all prone to virus people infected.
